@@ -1,6 +1,6 @@
 <%--<%@page contentType="text/html" pageEncoding="UTF-8"%>--%>
 
-<!-- errorPage="" works if this is page having an ERROR-->
+<!-- errorPage="" works if this page having an ERROR-->
 <%@ page 
     language="java" 
     contentType="text/html; charset=UTF-8" 
